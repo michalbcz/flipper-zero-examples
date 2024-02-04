@@ -1,0 +1,7 @@
+dist/*
+.history/*
+.vscode
+.clang-format
+.editorconfig
+.env
+.ufbt
